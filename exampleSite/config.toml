@@ -1,4 +1,4 @@
-baseURL = "https://autosalesspinny.metlify.com"
+baseURL = "https://autosalesspinny.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
